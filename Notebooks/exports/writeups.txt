@@ -7,11 +7,13 @@ Graph 1:
 - b = 6.442 +/- 0.003
 - Error for current = reading error.
 - Error for voltage = reading error b/c reading error > standard error from LINEST.
+- Chi Squared = 2.1327962883001668.
 
 Graph 2: 
 - m = -0.011 +/- 0.002
 - b = 6.41 +/- 0.01
 - Error for current = reading error.
 - Error for voltage = standard error from LINEST b/c standard error > reading error.
+- Chi Squared = 36.417693730000586.
 
 
