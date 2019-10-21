@@ -1,0 +1,15 @@
+1. remove outliers and state we did so and why
+
+Day2
+- b06, r01 goes out of frame at the last portion
+
+- b07, left 2 were too close
+
+- b9, r06, the big chunk
+
+- b10, r01, went in and out a few times, maybe bad?
+    - r02, r03 blink too
+
+2. Create a histogram (density/gaussian function)
+    - determine 3sigmax to find 99.7% of the data (65 95 99.7 rule) - NEED
+    - plot avg (or final?) distance from origin relative per each trial
