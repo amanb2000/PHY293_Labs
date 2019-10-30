@@ -1,0 +1,56 @@
+-19.15V G1
+GROOP 69
+
+Model: ?
+UNCERTAINTY of CALIPIERS: 0.05mm
+
+
+2.5V
+    INNER DIAMETER
+        30.5mm
+    OUTER DIAMETER
+        50.7mm
+
+3.0V
+    INNER DIAMETER
+        20.9mm
+    OUTER DIAMETER
+        50.3mm
+
+* uncertainty was greater for 3.5V and 3.0V measurements due to inability to clearly view the bands
+
+3.5V
+    INNER DIAMETER
+        20.6mm
+    OUTER DIAMETER
+        40.8mm
+
+4.0V
+    INNER DIAMETER
+        20.4mm
+    OUTER DIAMETER
+        40.7mm
+
+4.5V
+    INNER DIAMETER
+        20.35mm
+    OUTER DIAMETER
+        40.4mm
+
+5.0V
+    INNER DIAMETER
+        20.25mm
+    OUTER DIAMETER
+        40.0mm
+
+5.5V
+    INNER DIAMETER
+        20.0mm
+    OUTER DIAMETER
+        30.8mm
+
+6.0V
+    INNER DIAMETER
+        20.0mm
+    OUTER DIAMETER
+        30.5mm
