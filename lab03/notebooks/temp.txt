@@ -1,5 +1,0 @@
-plot avgR vs wavelength
-
-find d by rearranging eqn5
-
-talk about errors alot
